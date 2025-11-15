@@ -1,0 +1,88 @@
+StratoVirt:
+Startup finished in 642ms (kernel) + 3.610s (userspace) = 4.252s 
+graphical.target reached after 1.799s in userspace
+
+Startup finished in 646ms (kernel) + 3.624s (userspace) = 4.270s 
+graphical.target reached after 1.846s in userspace
+
+Startup finished in 663ms (kernel) + 3.641s (userspace) = 4.304s 
+graphical.target reached after 1.846s in userspace
+
+Startup finished in 646ms (kernel) + 3.604s (userspace) = 4.250s 
+graphical.target reached after 1.765s in userspace
+
+Startup finished in 648ms (kernel) + 3.615s (userspace) = 4.263s
+graphical.target reached after 1.780s in userspace
+
+Startup finished in 655ms (kernel) + 3.620s (userspace) = 4.275s
+graphical.target reached after 1.814s in userspace
+
+Startup finished in 660ms (kernel) + 3.635s (userspace) = 4.295s
+graphical.target reached after 1.832s in userspace
+
+Startup finished in 643ms (kernel) + 3.608s (userspace) = 4.251s
+graphical.target reached after 1.777s in userspace
+
+Startup finished in 657ms (kernel) + 3.622s (userspace) = 4.279s
+graphical.target reached after 1.845s in userspace
+
+Startup finished in 652ms (kernel) + 3.618s (userspace) = 4.270s
+graphical.target reached after 1.804s in userspace
+
+
+QEMU:
+Startup finished in 965ms (kernel) + 1.312s (initrd) + 5.246s (userspace) = 7.524s
+multi-user.target reached after 1.747s in userspace
+
+Startup finished in 932ms (kernel) + 1.329s (initrd) + 5.241s (userspace) = 7.503s
+multi-user.target reached after 1.762s in userspace
+
+Startup finished in 921ms (kernel) + 1.334s (initrd) + 5.242s (userspace) = 7.497s
+multi-user.target reached after 1.765s in userspace
+
+Startup finished in 916ms (kernel) + 1.284s (initrd) + 5.253s (userspace) = 7.453s
+multi-user.target reached after 1.719s in userspace
+
+Startup finished in 927ms (kernel) + 1.311s (initrd) + 5.248s (userspace) = 7.486s
+multi-user.target reached after 1.734s in userspace
+
+Startup finished in 940ms (kernel) + 1.322s (initrd) + 5.247s (userspace) = 7.509s
+multi-user.target reached after 1.747s in userspace
+
+Startup finished in 955ms (kernel) + 1.300s (initrd) + 5.244s (userspace) = 7.499s
+multi-user.target reached after 1.751s in userspace
+
+Startup finished in 922ms (kernel) + 1.318s (initrd) + 5.251s (userspace) = 7.491s
+multi-user.target reached after 1.725s in userspace
+
+Startup finished in 933ms (kernel) + 1.291s (initrd) + 5.246s (userspace) = 7.470s
+multi-user.target reached after 1.732s in userspace
+
+Startup finished in 948ms (kernel) + 1.327s (initrd) + 5.249s (userspace) = 7.524s
+multi-user.target reached after 1.760s in userspace
+
+StratoVirt:
+				  Kbytes     RSS   Dirty
+total kB         1128048  128252  122280
+total kB         1128048  126456  120412
+total kB         1128048  126424  120488
+total kB         1128048  126680  120744
+total kB         1128048  127112  121096
+total kB         1128048  125888  119824
+total kB         1128048  126536  120512
+total kB         1128048  126864  120896
+total kB         1128048  126208  120256
+total kB         1128048  127384  121328
+
+QEMU:
+				  Kbytes     RSS   Dirty
+total kB         1654360  517592  496584
+total kB         1657444  554576  533568
+total kB         1657444  653028  632092
+total kB         1664640  660152  639216
+total kB         1659820  628448  607512
+total kB         1662204  593736  572700
+total kB         1656448  551892  530924
+total kB         1661024  612304  591336
+total kB         1658600  579160  558192
+total kB         1663536  641872  620904
